@@ -1,6 +1,6 @@
 # Kaito Sakamoto
 
-Game Programming Student
+Aspiring Game Programmer | Student
 
 ## 👋 About Me
 
@@ -12,111 +12,96 @@ Currently, I am developing MindCode, a research platform for studying human beha
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
+| Project | Preview |
+|----------|----------|
+| MindCode | ![](./images/mindcode.png) |
+| Puzzle × Roguelike | ![](./images/roguelike.png) |
+| Bomb Defusal Game | ![](./images/bomb.png) |
 
 ### MindCode
 
 A web-based AI-assisted vibe coding platform developed for academic research.
 
-Built with React, Express, MySQL, and Docker, MindCode provides AI-assisted coding, instant preview functionality, Google OAuth authentication, and detailed interaction logging for behavioral analysis.
+**Highlights**
 
-**My Role**
+* Research platform for studying AI-assisted development
+* React, Express, MySQL, Docker
+* Google OAuth authentication
+* User behavior logging system
 
-* Project conception
-* Requirements definition
-* System architecture design
-* Full-stack implementation
-* Database design
-* Docker environment setup
-* Google OAuth integration
-* User interaction logging system implementation
+📄 [View Project Details](./projects/mindcode.md)
 
 ---
 
 ### Puzzle × Roguelike Game
 
-A Unity game project that combines puzzle mechanics with roguelike progression.
+A Unity game project combining puzzle mechanics with roguelike progression.
 
-**My Role**
+**Highlights**
 
-* Project conception
-* Core game system design
+* Original game concept
+* Core system design
 * Gameplay programming
-* UI implementation
-* Git-based team development
+* Team development (2 members)
 
-**Team**
-
-* 2 members
-
-**Technologies**
-
-* Unity
-* C#
-* Git
-
-Status: Currently under development.
+📄 [View Project Details](./projects/puzlog.md)
 
 ---
 
-## 💣 Playable Project
-
 ### Bomb Defusal Game
 
-A browser game developed as a first-year university project using HTML, CSS, and JavaScript.
+🏆 Awarded Best Project in a university course final presentation.
 
-Players must follow a dynamically generated bomb defusal manual and solve challenges before time runs out.
+A browser-based puzzle game developed using HTML, CSS, and JavaScript.
 
-🏆 Awarded Best Project in the course final presentation.
+🎮 Play Online:
+https://tiizu727.github.io/bomb/frontend/
 
-**My Role**
-
-* Game concept
-* Game design
-* Frontend implementation
-* JavaScript game logic
-
-**Technologies**
-
-* HTML
-* CSS
-* JavaScript
+📄 [View Project Details](./projects/bomb.md)
 
 ---
 
 ## 📚 Research Activities
 
-* Developed systems used in academic research projects
-* Contributed to a paper submitted to IS175 as a system developer and co-author
-* Led the development of MindCode and contributed to the research and writing process for a paper submitted to SSS2026 (under review)
+### IS175
+
+* System developer and co-author
+* Contributed to a research project through system implementation
+
+### SSS2026 (Under Review)
+
+* MindCode project lead
+* System design and implementation
+* Research development and paper preparation
 
 ---
 
 ## 🛠 Technologies
 
-Technologies used across my projects:
+### Game Development
 
-Game Development
-- Unity
-- C#
+* Unity
+* C#
 
-Web Development
-- JavaScript
-- React
-- Express
+### Web Development
 
-Infrastructure & Database
-- Docker
-- MySQL
+* JavaScript
+* React
+* Express
 
-Tools
-- Git
-- GitHub
+### Database & Infrastructure
 
-### Interests
+* MySQL
+* Docker
 
-* Game Programming
-* AI-Assisted Development
-* Software Architecture
+### Development Tools
+
+* Git
+* GitHub
 
 ---
+
+## 📫 Contact
+
+* GitHub: @Tiizu727
