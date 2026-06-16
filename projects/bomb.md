@@ -41,4 +41,6 @@ https://tiizu727.github.io/bomb/frontend/
 
 ## Screenshots
 
-*Screenshots will be added here.*
+![](../images/bomb-preview.png)
+![](../images/bomb-explosion.png)
+![](../images/bomb-guide.png)

@@ -52,4 +52,4 @@ MindCode has been used as the foundation for academic research projects, includi
 
 ## Screenshots
 
-*Screenshots will be added here.*
+![](../images/mindcode-preview.png)

@@ -15,9 +15,9 @@ Currently, I am developing MindCode, a research platform for studying human beha
 ## 🚀 Featured Projects
 | Project | Preview |
 |----------|----------|
-| MindCode | ![](./images/mindcode.png) |
+| MindCode | ![](./images/mindcode-preview.png) |
 | Puzzle × Roguelike | ![](./images/roguelike.png) |
-| Bomb Defusal Game | ![](./images/bomb.png) |
+| Bomb Defusal Game | ![](./images/bomb-preview.png) |
 
 ### MindCode
 
