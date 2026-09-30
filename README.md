@@ -68,12 +68,21 @@ https://tiizu727.github.io/bomb/frontend/
 
 * System developer and co-author
 * Contributed to a research project through system implementation
+* System implementation, software-related writing, and log analysis
 
-### SSS2026 (Under Review)
+### SSS2026
 
 * MindCode project lead
 * System design and implementation
-* Research development and paper preparation
+* Research development, log analysis, and paper preparation
+* Presented the research at SSS2026
+* Received the Student Encouragement Award
+
+### PoEM 2026
+
+* Co-author of a paper accepted for PoEM 2026 (The Practice of Enterprise Modeling)
+* Paper based on the research presented at SSS2026
+* Contributed as a co-author
 
 ---
 
