@@ -1,45 +1,48 @@
-# Puzzle × Roguelike Game
+# Puzlog(仮)
 
-## Overview
+## 概要
 
-A Unity game project that combines puzzle-solving gameplay with roguelike progression mechanics.
+パズルとローグライクを組み合わせた脳が溶けるゲーム．降ってくるエレメントをつなげて消して敵に攻撃をします．様々なアーティファクトもあるため，自分だけのビルドを組み立てて何度でも遊べます．
 
-The goal of the project is to create an experience that encourages both strategic thinking and replayability by combining the strengths of two different genres.
+## こだわり
 
-## Motivation
+### 脳溶け
 
-Traditional puzzle games often become predictable once the player discovers the solution.
+パズルゲームは考えなければ行けない．どれが一番繋げられるのだろうか？どうやったら敵を倒せるだろうか...最初はそれが楽しいですが，疲れてくると考えたくなくなる．アーティファクトを買っておけば疲れたタイミングで考えなくてもどんどん敵を倒せるようになります．
 
-By introducing roguelike elements, the project aims to create new situations and challenges in every playthrough, encouraging players to continuously adapt their strategies.
+### たくさんのアーティファクト
 
-## Technologies
+固有の効果を持ったアーティファクトが現在30種類．これからも増やしていきます．
+
+## 技術
 
 * Unity
 * C#
-* Git
+* isuzu-MCP
 
-## Team
+UnityのMCPサーバーを用いて開発しています．
 
-This project is being developed by a two-person team.
+## チーム
 
-### My Responsibilities
+このゲームはお友だちと二人で開発しています．
 
-* Project conception
-* Core game system design
-* Gameplay programming
-* UI implementation
-* Git-based team development
+### 役割
 
-### Teammate Responsibilities
+私の役割
 
-* Art production
-* Asset selection
-* Audio and visual presentation
+* ゲーム企画
+* 調整
+* 実装
 
-## Development Status
+お友だちの役割
 
-Currently under development.
+* イラスト
+* 音楽選定
 
-## Screenshots
+## スクショ
 
 *Screenshots will be added here.*
+
+## お小言
+
+ゲームの基盤はできているのでここからこだわりを詰め込んでいくタイミングです．
